@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "name":"Paella",
+        "link":"https://media.hachette.fr/fit-in/750x488/10/2022-02/sans-titre-36.png",
+        "time":"45",
+        "spicy":"very spicy"
+    },
+    {   "id":2,
+        "name":"Sushis",
+        "link":"https://france3-regions.francetvinfo.fr/image/hB9565bsCajq5rCNsHi7Jc9C_Pc/600x400/regions/2020/06/09/5edf79bcc5236_60552173_2085426011761372_6000954818804318208_n-4248677.jpg",
+        "time":"20",
+        "spicy":"not spicy"
+    },
+    {    "id":3,
+        "name":"Houmous",
+        "link":"https://sta00hsspmda1.blob.core.windows.net/workbenchmedias-prod/compact-cook/recettes/apperitifs/houmous/houmous.jpg",
+        "time":"20",
+        "spicy":"extra spicy"
+    },
+    {
+        "id":4,
+        "name":"Pizza",
+        "link":"https://cdn.shopify.com/s/files/1/0408/5655/1588/articles/Margherita-9920.jpg?crop=center&height=1024&v=1644590066&width=1024",
+        "time":"25",
+        "spicy":"not spicy"
+    }
+]
