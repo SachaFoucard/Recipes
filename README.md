@@ -9,3 +9,8 @@
 
 - UseEffect
 - UseStates
+
+## Explication 
+- Can create a new recipes with the a picture,name,if spicy, time preparation, to the Menu
+- You can add the Menu to the Preparation 
+- you can remove some menu from the Preparation if it ready 
